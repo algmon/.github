@@ -6,7 +6,7 @@
 * 下一代智能设计 & 时尚视频生成平台 suanfamama-content-generation-platform
 
 ### 目前在研核心算法
-* 多模态时尚生成模型
+* 多模态时尚生成模型 suanfamama-multimodal
 
 ### 目前运营项目
 * 算法妈妈官网 suanfamama-company-website
