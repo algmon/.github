@@ -4,6 +4,7 @@
 * 下一代元宇宙与数字孪生情感交互平台 suanfamama-digital-avatar-platform
 * 下一代搜索与推荐计算广告平台 suanfamama-search-recommendation-platform
 * 下一代智能设计 & 时尚视频生成平台 suanfamama-content-generation-platform
+* 下一代算法妈妈平台公共组件 suanfamama-platform-common
 
 ### 目前在研算法
 * 多模态时尚生成模型 suanfamama-multimodal
