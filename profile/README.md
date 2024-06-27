@@ -10,8 +10,8 @@
 
 ### 目前在运维项目
 * 算法妈妈官网 suanfamama-company-website
-* 算法妈妈&Dify 智能体平台 suanfamama-platform
-* 算法妈妈&极简未来 智能体端 suanfamama-chatbot
+* 算法妈妈 & Dify 智能体平台 suanfamama-platform
+* 算法妈妈 & 极简未来 智能体端 suanfamama-chatbot
 * 算法妈妈AIGC知识库 suanfamama-knowledgebase
 
 <!--
